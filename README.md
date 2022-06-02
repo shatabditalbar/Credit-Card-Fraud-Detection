@@ -2,9 +2,10 @@
 
 **Context**
 
-The customers are not payable for the transactions that they did not commited.
 The datasets contains transactions made by credit cards in September 2013 by european cardholders. 
-In this project, we are going to predict whether credit card is fraudulent or not using machine learning algorithms
+In this project, we are going to predict whether credit card is fraudulent or not using machine learning algorithms.
+The customers are not payable for the transactions that they did not commited.
+
 
 **Dataset**
 
